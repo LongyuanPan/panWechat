@@ -5,4 +5,5 @@
 <text>和我一起学习laravel</text>
 </view>
 <text bindtap="checkAir">查看天气预报</text>
+<text bindtap="checkMovie">电影查看</text>
 </view>

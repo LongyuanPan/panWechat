@@ -2,7 +2,8 @@
   "pages": [
     "pages/index/index",
     "pages/newIndex/newIndex",
-    "pages/newIndex2/newIndex2"
+    "pages/newIndex2/newIndex2",
+    "pages/movie/movie"
   ],
   "window": {
     "navigationBarBackgroundColor": "white",

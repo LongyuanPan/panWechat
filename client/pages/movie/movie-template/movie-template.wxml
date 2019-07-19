@@ -1,0 +1,8 @@
+<import src="../star-template/star-template.wxml" />
+<template name="movieTemplate">
+<view class="movie-container">
+<image class="movie-img" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1563550045209&di=c5d17e4cd5ee2e555c2a767995850694&imgtype=0&src=http%3A%2F%2Fpic23.nipic.com%2F20120828%2F9736943_180141431194_2.jpg"></image>
+<text class="movie-title">机动部队</text>
+<template is="starTemplate"/>
+</view>
+</template>

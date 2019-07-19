@@ -1,0 +1,20 @@
+<import src="../movie-template/movie-template.wxml"/>
+<template name="movielistTemplate">
+<view class="movie-list-container">
+<view class="inner-container">
+<view class="movie-head">
+<text class="slogan">正在热映</text>
+<view catchtap="onMoreTap" class="more">
+<text class="more-text">更多>></text>
+<!-- <image class="more-img" src="../image/arrow-right.png"></image> -->
+</view>
+</view>
+<view class="movie-container">
+<!-- 加载三个movie -->
+<template is="movieTemplate"/>
+<template is="movieTemplate"/>
+<template is="movieTemplate"/>
+</view>
+</view>
+</view>
+</template>
