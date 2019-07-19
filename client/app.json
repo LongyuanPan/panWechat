@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/newIndex/newIndex",
+    "pages/newIndex2/newIndex2"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "white",
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "湖哥的个人博客"
+  },
+  "sitemapLocation": "sitemap.json"
+}

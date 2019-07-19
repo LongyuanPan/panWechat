@@ -1,0 +1,35 @@
+<view class="new-contain">
+<swiper indicator-dots="true" autoplay='true' interval='2000'
+circular='true'>
+<swiper-item>
+<image src='../images/1.png'></image>
+</swiper-item>
+<swiper-item>
+<image src='../images/2.png'></image>
+</swiper-item>
+<swiper-item>
+<image src='../images/3.png'></image>
+</swiper-item>
+</swiper>
+
+<block wx:for="{{list}}" wx-for-item="item" wx:key="key">
+<!-- 文本内容1 -->
+<view class="article-list" >
+<view class="author-time">
+<image src="../images/touxiang.png" class="authorImg"></image>
+<text class="author">{{item.author_name}}</text>
+<text class='author-date'>{{item.class_name}}</text>
+</view>
+<text class='title'>{{item.bookname}}</text>
+<image src="{{item.book_cover}}" class="titleImg"></image>
+<text class="titleContent">{{item.book_info}}
+</text>
+<view class="article-like">
+<image src="../images/pinglun.png" class="likeImg"></image>
+<text class='like-text'>12</text>
+<image src="../images/dianzan.png" class='likeImg'></image>
+<text class='like-text'>30</text>
+</view>
+</view>
+</block>
+</view>

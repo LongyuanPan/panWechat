@@ -1,0 +1,23 @@
+.index-contain{
+   display: flex;
+   flex-direction:column;
+   align-items: center
+}
+.index-contain .logo{
+  width:477rpx;
+  height: 233rpx;
+}
+.index-contain .username{
+  margin-top: 100rpx;
+  font-size: 20px;
+  font-weight: 700
+}
+.index-contain .btn{
+  border: 1px solid #0000FF;
+  margin-top:300rpx;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+.index-contain .btn text{
+  color: #0000FF;
+}

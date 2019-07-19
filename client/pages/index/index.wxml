@@ -1,0 +1,8 @@
+<view class="index-contain">
+<image class="logo" src="../images/2019.png"></image>
+<text class="username">个人博客</text>
+<view class="btn" bindtap="goNewTab">
+<text>和我一起学习laravel</text>
+</view>
+<text bindtap="checkAir">查看天气预报</text>
+</view>

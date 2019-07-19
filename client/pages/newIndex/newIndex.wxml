@@ -1,0 +1,86 @@
+<view class="new-contain">
+<swiper indicator-dots="true" autoplay='true' interval='2000'
+circular='true'>
+<swiper-item>
+<image src='../images/1.png'></image>
+</swiper-item>
+<swiper-item>
+<image src='../images/2.png'></image>
+</swiper-item>
+<swiper-item>
+<image src='../images/3.png'></image>
+</swiper-item>
+</swiper>
+</view>
+<!-- 文本内容1 -->
+<view class="article-list">
+<view class="author-time">
+<image src="../images/touxiang.png" class="authorImg"></image>
+<text class="author">潘清湖</text>
+<text class='author-date'>2019.5.26</text>
+</view>
+<text class='title'>我的第一篇博客</text>
+<image src="../images/beijing1.jpg" class="titleImg"></image>
+<text class="titleContent">新浪娱乐讯 当地时间5月25日晚，第72届戛纳电影节闭幕，各大奖项揭晓。韩国导演奉俊昊的新作《寄生虫》拿下最佳影片，这也是韩国首个金棕榈奖，可谓众望所归：《寄生虫》不仅是场刊评分第一，媒体中心的记者们还为此结果集体送上一片欢呼，评委会主席亚历桑德罗·冈萨雷斯·伊纳里多颁奖时也透露金棕榈是评委们一致通过的。但除了金棕榈，大部分奖项的归属都颇具争议，记者们给颁奖结果送上了多次嘘声
+</text>
+<view class="article-like">
+<image src="../images/pinglun.png" class="likeImg"></image>
+<text class='like-text'>12</text>
+<image src="../images/dianzan.png" class='likeImg'></image>
+<text class='like-text'>30</text>
+</view>
+</view>
+<!-- 文本内容2 -->
+<view class="article-list">
+<view class="author-time">
+<image src="../images/touxiang.png" class="authorImg"></image>
+<text class="author">潘清湖</text>
+<text class='author-date'>2019.5.26</text>
+</view>
+<text class='title'>我的第一篇博客</text>
+<image src="../images/beijing1.jpg" class="titleImg"></image>
+<text class="titleContent">新浪娱乐讯 当地时间5月25日晚，第72届戛纳电影节闭幕，各大奖项揭晓。韩国导演奉俊昊的新作《寄生虫》拿下最佳影片，这也是韩国首个金棕榈奖，可谓众望所归：《寄生虫》不仅是场刊评分第一，媒体中心的记者们还为此结果集体送上一片欢呼，评委会主席亚历桑德罗·冈萨雷斯·伊纳里多颁奖时也透露金棕榈是评委们一致通过的。但除了金棕榈，大部分奖项的归属都颇具争议，记者们给颁奖结果送上了多次嘘声
+</text>
+<view class="article-like">
+<image src="../images/pinglun.png" class="likeImg"></image>
+<text class='like-text'>12</text>
+<image src="../images/dianzan.png" class='likeImg'></image>
+<text class='like-text'>30</text>
+</view>
+</view>
+<!-- 文本内容3 -->
+<view class="article-list">
+<view class="author-time">
+<image src="../images/touxiang.png" class="authorImg"></image>
+<text class="author">潘清湖</text>
+<text class='author-date'>2019.5.26</text>
+</view>
+<text class='title'>我的第一篇博客</text>
+<image src="../images/beijing1.jpg" class="titleImg"></image>
+<text class="titleContent">新浪娱乐讯 当地时间5月25日晚，第72届戛纳电影节闭幕，各大奖项揭晓。韩国导演奉俊昊的新作《寄生虫》拿下最佳影片，这也是韩国首个金棕榈奖，可谓众望所归：《寄生虫》不仅是场刊评分第一，媒体中心的记者们还为此结果集体送上一片欢呼，评委会主席亚历桑德罗·冈萨雷斯·伊纳里多颁奖时也透露金棕榈是评委们一致通过的。但除了金棕榈，大部分奖项的归属都颇具争议，记者们给颁奖结果送上了多次嘘声
+</text>
+<view class="article-like">
+<image src="../images/pinglun.png" class="likeImg"></image>
+<text class='like-text'>12</text>
+<image src="../images/dianzan.png" class='likeImg'></image>
+<text class='like-text'>30</text>
+</view>
+</view>
+<!-- 文本内容4 -->
+<view class="article-list">
+<view class="author-time">
+<image src="../images/touxiang.png" class="authorImg"></image>
+<text class="author">潘清湖</text>
+<text class='author-date'>2019.5.26</text>
+</view>
+<text class='title'>我的第一篇博客</text>
+<image src="../images/beijing1.jpg" class="titleImg"></image>
+<text class="titleContent">新浪娱乐讯 当地时间5月25日晚，第72届戛纳电影节闭幕，各大奖项揭晓。韩国导演奉俊昊的新作《寄生虫》拿下最佳影片，这也是韩国首个金棕榈奖，可谓众望所归：《寄生虫》不仅是场刊评分第一，媒体中心的记者们还为此结果集体送上一片欢呼，评委会主席亚历桑德罗·冈萨雷斯·伊纳里多颁奖时也透露金棕榈是评委们一致通过的。但除了金棕榈，大部分奖项的归属都颇具争议，记者们给颁奖结果送上了多次嘘声
+</text>
+<view class="article-like">
+<image src="../images/pinglun.png" class="likeImg"></image>
+<text class='like-text'>12</text>
+<image src="../images/dianzan.png" class='likeImg'></image>
+<text class='like-text'>30</text>
+</view>
+</view>
